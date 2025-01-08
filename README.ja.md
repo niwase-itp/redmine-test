@@ -1,0 +1,3 @@
+# Redmine test
+
+RedmineのコンテナをAzureにアップするためのテストです。
